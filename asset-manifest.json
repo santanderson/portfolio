@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.98f7ee9f.css",
-    "main.js": "/portfolio/static/js/main.175ca2be.js",
-    "static/media/milkoff.png": "/portfolio/static/media/milkoff.a2fa475ada2a294646d6.png",
-    "static/media/foodrop.png": "/portfolio/static/media/foodrop.ae4a0256925986b91fad.png",
-    "static/media/spotify.png": "/portfolio/static/media/spotify.a351dbeb1207ffccdaf2.png",
-    "static/media/google.png": "/portfolio/static/media/google.b7e4250683cfbc553ee3.png",
-    "static/media/instagram.png": "/portfolio/static/media/instagram.edb90ecc706a7a25542b.png",
-    "static/media/facebook.png": "/portfolio/static/media/facebook.8d51a55626e9bf107f8f.png",
-    "index.html": "/portfolio/index.html",
-    "main.98f7ee9f.css.map": "/portfolio/static/css/main.98f7ee9f.css.map",
-    "main.175ca2be.js.map": "/portfolio/static/js/main.175ca2be.js.map"
+    "main.css": "/static/css/main.98f7ee9f.css",
+    "main.js": "/static/js/main.1a47d805.js",
+    "static/media/milkoff.png": "/static/media/milkoff.a2fa475ada2a294646d6.png",
+    "static/media/foodrop.png": "/static/media/foodrop.ae4a0256925986b91fad.png",
+    "static/media/spotify.png": "/static/media/spotify.a351dbeb1207ffccdaf2.png",
+    "static/media/google.png": "/static/media/google.b7e4250683cfbc553ee3.png",
+    "static/media/instagram.png": "/static/media/instagram.edb90ecc706a7a25542b.png",
+    "static/media/facebook.png": "/static/media/facebook.8d51a55626e9bf107f8f.png",
+    "index.html": "/index.html",
+    "main.98f7ee9f.css.map": "/static/css/main.98f7ee9f.css.map",
+    "main.1a47d805.js.map": "/static/js/main.1a47d805.js.map"
   },
   "entrypoints": [
     "static/css/main.98f7ee9f.css",
-    "static/js/main.175ca2be.js"
+    "static/js/main.1a47d805.js"
   ]
 }
